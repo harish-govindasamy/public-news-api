@@ -29,13 +29,9 @@ This responsive web application fetches and displays the latest news articles fr
    ```
 2. **API Keys**: Obtain API keys from [TheNewsAPI](https://www.thenewsapi.com/account/dashboard) and [Currents API](https://currentsapi.services/en/docs/). Replace the placeholder keys in
 
-script.js
+script.js with your actual API keys. 
 
-with your actual API keys. 3. **Open the Application**: Open
-
-index.html
-
-in your browser to view the application.
+3. **Open the Application**: Open index.html in your browser to view the application.
 
 ## Future Enhancements
 
@@ -46,7 +42,3 @@ in your browser to view the application.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
